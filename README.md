@@ -1,0 +1,2 @@
+# Fine-Tuning LLaMA 2 with Supervised Learning and Reinforcement Learning
+This project focuses on fine-tuning the LLaMA 2 model using both supervised learning and reinforcement learning techniques. The objective is to adapt the pre-trained LLaMA 2 model for specific downstream tasks, leveraging the power of the Transformer architecture combined with reinforcement learning for enhanced performance in sequential decision-making tasks.
